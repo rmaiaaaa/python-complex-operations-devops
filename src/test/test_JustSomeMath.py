@@ -14,5 +14,6 @@ class TestJustSomeMath:
         
         #Assert
         assert result > 0
+        assert result > 1
 
         pass
