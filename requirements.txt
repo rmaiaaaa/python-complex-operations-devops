@@ -1,4 +1,4 @@
 pytest == 7.3.*
-Flake8
+flake8
 pdoc == 13.1.*
-build == 0.10.*
+build == 0.8.*
